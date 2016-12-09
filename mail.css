@@ -1,0 +1,10 @@
+html::selection {
+    color: red; 
+    background: yellow;
+}
+
+
+img {
+        float: right;
+    }
+
